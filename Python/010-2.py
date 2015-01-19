@@ -1,7 +1,7 @@
 #!/usr/bin/python
 '''
     Purpose: https://projecteuler.net/problem=10
-    Sieve of Erasthonese Algorithm used. Implemented using 7-3.py
+    Sieve of Erasthonese Algorithm used. Implemented using 007-3.py
     @author:Pramod S   
 '''
 def main():
