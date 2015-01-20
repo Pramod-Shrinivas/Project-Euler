@@ -2,6 +2,7 @@
 from math import sqrt
 '''
     Purpose: https://projecteuler.net/problem=12
+    A direct brute force approach
     @author:Pramod S   
 '''
 def numberofDivisors(num):
